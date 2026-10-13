@@ -1,0 +1,5 @@
+1.新项目空间初始化指令：
+读取 D:\ai-shared-memory-skill\SKILL.md，按第 9 节 Checklist 为本项目初始化共享记忆库，
+并把你本次会话已知的项目事实按规范沉淀进去。
+2.任意Agent开发前的接入项目记忆指令：
+先读项目根 AGENTS.md，按其指引读 .agents/memory/README.md 索引和命中的记忆文件，再动手。
